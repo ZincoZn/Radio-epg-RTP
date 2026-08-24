@@ -4,38 +4,49 @@ from datetime import datetime, timedelta
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
 
-# 1. Preparar os 7 dias
+# 1. Preparar os 7 dias e as duas rotas (Rádio e TV)
 hoje = datetime.now()
 datas_a_pesquisar = [(hoje + timedelta(days=i)).strftime("%d-%m-%Y") for i in range(7)]
+tipos_de_grelha = ["radio", "tv"]
 
 canais_dados = {}
 programas_dados = {}
 
-# 2. Extrair dados de todos os dias e canais
+# 2. Extrair dados de todos os dias e de todas as rotas com filtro
 for data_alvo in datas_a_pesquisar:
-    url = f"https://www.rtp.pt/EPG/json/rtp-home-page-tv-radio/list-all-grids/radio/{data_alvo}"
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    
-    try:
-        with urllib.request.urlopen(req) as resposta:
-            dados = json.loads(resposta.read())
-    except Exception:
-        continue # Ignorar o dia em caso de falha de ligação
-    
-    estacoes = dados.get("result", {})
-    
-    for id_canal, conteudo in estacoes.items():
-        if id_canal not in canais_dados:
-            canais_dados[id_canal] = conteudo.get("_info", {})
-            programas_dados[id_canal] = []
+    for tipo in tipos_de_grelha:
+        url = f"https://www.rtp.pt/EPG/json/rtp-home-page-tv-radio/list-all-grids/{tipo}/{data_alvo}"
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         
-        # Juntar todos os blocos horários do canal
-        for bloco in ["morning", "afternoon", "evening", "primetime"]:
-            if bloco in conteudo:
-                programas_dados[id_canal].extend(conteudo[bloco])
+        try:
+            with urllib.request.urlopen(req) as resposta:
+                dados = json.loads(resposta.read())
+        except Exception:
+            continue # Ignorar o dia em caso de falha de rede
+        
+        estacoes = dados.get("result", {})
+        
+        for id_canal, conteudo in estacoes.items():
+            
+            # FILTRO: Se estivermos a ler a lista de TV, apenas guardamos as webrádios temáticas
+            if tipo == "tv":
+                termos_webradio = ["fado", "opera", "jazz", "lusitania", "radio", "zigzag"]
+                # Se o ID do canal não contiver nenhum destes termos, ignoramos e passamos ao próximo
+                if not any(termo in id_canal.lower() for termo in termos_webradio):
+                    continue
+
+            # Se passar o filtro (ou se for da lista normal de rádio), adicionamos à nossa grelha
+            if id_canal not in canais_dados:
+                canais_dados[id_canal] = conteudo.get("_info", {})
+                programas_dados[id_canal] = []
+            
+            # Juntar todos os blocos horários do canal
+            for bloco in ["morning", "afternoon", "evening", "primetime"]:
+                if bloco in conteudo:
+                    programas_dados[id_canal].extend(conteudo[bloco])
 
 # 3. Construir a estrutura XMLTV
-tv = Element('tv', {'generator-info-name': 'Gerador RTP EPG 7 Dias'})
+tv = Element('tv', {'generator-info-name': 'Gerador RTP EPG Global'})
 formato_rtp = "%Y-%m-%d %H:%M:%S"
 formato_xmltv = "%Y%m%d%H%M%S +0100"
 
@@ -82,7 +93,6 @@ for id_canal, info in canais_dados.items():
         # Adicionar o ícone específico do programa, caso exista no feed
         imagens_programa = prog_actual.get('image')
         if imagens_programa and isinstance(imagens_programa, list) and len(imagens_programa) > 0:
-            # Optamos pela última imagem da lista, que por norma costuma ser a de maior resolução
             url_img_prog = imagens_programa[-1].get('src')
             if url_img_prog:
                 SubElement(programa, 'icon', {'src': url_img_prog})
@@ -93,3 +103,4 @@ xml_formatado = minidom.parseString(xml_bruto).toprettyxml(indent="  ")
 
 with open("grelha_rtp_completa.xml", "w", encoding="utf-8") as ficheiro:
     ficheiro.write(xml_formatado)
+    
