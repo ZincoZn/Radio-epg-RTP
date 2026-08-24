@@ -1,0 +1,34 @@
+name: Actualizar Grelha RTP
+
+on:
+  schedule:
+    # Executa todos os dias às 04h00 da madrugada
+    - cron: '0 4 * * *' 
+  workflow_dispatch: # Adiciona um botão para poderes correr manualmente quando quiseres
+
+jobs:
+  gerar-xml:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Correr o script gerador
+        run: python gerador_epg.py
+
+      - name: Guardar o novo ficheiro XML
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add grelha_rtp_completa.xml
+          git commit -m "Actualização automática da grelha RTP" || exit 0
+          git push
+          
