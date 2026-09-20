@@ -6000,6 +6000,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920000900 +0100" stop="20260920020000 +0100">
     <title>Costa a Costa</title>
@@ -6007,12 +6008,14 @@
     <url>https://www.rtp.pt/programa/radio/p5550</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5550_13349_94036.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920020000 +0100" stop="20260920020900 +0100">
     <title>Noticiário</title>
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920020900 +0100" stop="20260920040000 +0100">
     <title>Destacável</title>
@@ -6026,6 +6029,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920040900 +0100" stop="20260920050000 +0100">
     <title>Serviço Público - Bloco de Notas</title>
@@ -6039,6 +6043,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920051000 +0100" stop="20260920060000 +0100">
     <title>Longe de Casa</title>
@@ -6052,6 +6057,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920060700 +0100" stop="20260920070000 +0100">
     <title>A Fé dos Homens</title>
@@ -6064,6 +6070,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920070900 +0100" stop="20260920080000 +0100">
     <title>A Árvore da Música</title>
@@ -6077,6 +6084,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920080700 +0100" stop="20260920090000 +0100">
     <title>Eucaristia Dominical</title>
@@ -6089,6 +6097,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920090900 +0100" stop="20260920100000 +0100">
     <title>Gramofone</title>
@@ -6102,6 +6111,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920100900 +0100" stop="20260920110000 +0100">
     <title>O Amor é</title>
@@ -6109,12 +6119,14 @@
     <url>https://www.rtp.pt/programa/radio/p2403</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2403_13373_66595.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920110000 +0100" stop="20260920110900 +0100">
     <title>Noticiário</title>
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920110900 +0100" stop="20260920120000 +0100">
     <title>Vencidos</title>
@@ -6128,6 +6140,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920120900 +0100" stop="20260920130000 +0100">
     <title>Visão Global</title>
@@ -6141,6 +6154,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920131000 +0100" stop="20260920140000 +0100">
     <title>Conversa Capital</title>
@@ -6154,6 +6168,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920140900 +0100" stop="20260920150000 +0100">
     <title>Longe de Casa</title>
@@ -6167,6 +6182,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920150900 +0100" stop="20260920180000 +0100">
     <title>Tarde Desportiva</title>
@@ -6180,6 +6196,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920180700 +0100" stop="20260920190000 +0100">
     <title>Rui Santos</title>
@@ -6192,6 +6209,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920190700 +0100" stop="20260920200000 +0100">
     <title>33 Rotações por Minuto</title>
@@ -6205,6 +6223,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920200900 +0100" stop="20260920230000 +0100">
     <title>Desporto - RTP Antena 1</title>
@@ -6218,6 +6237,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-1" start="20260920233200 +0100" stop="20260921000000 +0100">
     <title>Herberto Quaresma</title>
@@ -10421,6 +10441,7 @@
     <url>https://www.rtp.pt/programa/radio/p2169/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2169_12621_53105.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920010000 +0100" stop="20260920020000 +0100">
     <title>Cem Sóis a Abater: Retratos de Mulheres Compositoras</title>
@@ -10463,6 +10484,7 @@
     <url>https://www.rtp.pt/programa/radio/p8198/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8198_13466_96277.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920090000 +0100" stop="20260920100000 +0100">
     <title>Café Plaza</title>
@@ -10470,6 +10492,7 @@
     <url>https://www.rtp.pt/programa/radio/p2159/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2159_13713_33700.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920100000 +0100" stop="20260920110000 +0100">
     <title>Ao sabor da corrente</title>
@@ -10477,6 +10500,7 @@
     <url>https://www.rtp.pt/programa/radio/p7553/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7553_13409_79901.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920110000 +0100" stop="20260920123000 +0100">
     <title>GPS: Guia de Paisagens Sonoras</title>
@@ -10484,6 +10508,7 @@
     <url>https://www.rtp.pt/programa/radio/p8209/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8209_13420_26709.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920123000 +0100" stop="20260920130000 +0100">
     <title>Páginas de Português</title>
@@ -10491,6 +10516,7 @@
     <url>https://www.rtp.pt/programa/radio/p1833</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1833_7849_88247.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920130000 +0100" stop="20260920140000 +0100">
     <title>Sopros no Coração</title>
@@ -10498,6 +10524,7 @@
     <url>https://www.rtp.pt/programa/radio/p8199/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8199_13463_26455.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920140000 +0100" stop="20260920150000 +0100">
     <title>Memórias Futuras</title>
@@ -10505,6 +10532,7 @@
     <url>https://www.rtp.pt/programa/radio/p8211/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8211_13423_75675.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920150000 +0100" stop="20260920160000 +0100">
     <title>Divina Harmonia</title>
@@ -10512,6 +10540,7 @@
     <url>https://www.rtp.pt/programa/radio/p8150</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8150_12894_89375.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920160000 +0100" stop="20260920170000 +0100">
     <title>Especial RTP Antena 2</title>
@@ -10526,6 +10555,7 @@
     <url>https://www.rtp.pt/programa/radio/p8151/e20260920</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8151_12949_89907.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-2" start="20260920180000 +0100" stop="20260920220000 +0100">
     <title>Mezza-Voce</title>
@@ -11085,6 +11115,139 @@
     <desc>Luís Caetano</desc>
     <url>https://www.rtp.pt/programa/radio/p5694</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5694_12609_96743.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926000000 +0100" stop="20260926010000 +0100">
+    <title>Gravidade Zero</title>
+    <desc>Isilda Sanches</desc>
+    <url>https://www.rtp.pt/programa/radio/p8210/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8210_13421_650.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926010000 +0100" stop="20260926020000 +0100">
+    <title>Bolha Gular</title>
+    <desc>Tiago Schwabl</desc>
+    <url>https://www.rtp.pt/programa/radio/p7287/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7287_12623_23559.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926020000 +0100" stop="20260926030000 +0100">
+    <title>Jazz a 2</title>
+    <desc>João Moreira dos Santos / Maria Alexandra Corvela / Luís Caetano / Edição: Cristina do Carmo</desc>
+    <url>https://www.rtp.pt/programa/radio/p4573/e20260918</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4573_7786_21981.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926030000 +0100" stop="20260926040000 +0100">
+    <title>A Fuga da Arte</title>
+    <desc>Ricardo Saló</desc>
+    <url>https://www.rtp.pt/programa/radio/p2169/e20260913</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2169_12621_53105.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926040000 +0100" stop="20260926050000 +0100">
+    <title>A Ronda da Noite</title>
+    <desc>Luís Caetano</desc>
+    <url>https://www.rtp.pt/programa/radio/p5694</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5694_12609_96743.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926050000 +0100" stop="20260926060000 +0100">
+    <title>Divina Harmonia</title>
+    <desc>Pedro Rafael Costa</desc>
+    <url>https://www.rtp.pt/programa/radio/p8150</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8150_12894_89375.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926060000 +0100" stop="20260926070000 +0100">
+    <title>Música A2</title>
+    <desc>André Pinto</desc>
+    <url>https://www.rtp.pt/programa/radio/p8213</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8213_13205_21714.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="antena-2" start="20260926070000 +0100" stop="20260926090000 +0100">
+    <title>A Voz das Cores</title>
+    <desc>Andrea Lupi</desc>
+    <url>https://www.rtp.pt/programa/radio/p8200/e20260926</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8200_13408_61063.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926090000 +0100" stop="20260926100000 +0100">
+    <title>Café Plaza</title>
+    <desc>Germano Campos</desc>
+    <url>https://www.rtp.pt/programa/radio/p2159/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2159_13713_33700.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926100000 +0100" stop="20260926110000 +0100">
+    <title>Quinta Essência</title>
+    <desc>João Almeida</desc>
+    <url>https://www.rtp.pt/programa/radio/p1152</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1152_11942_42102.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926110000 +0100" stop="20260926120000 +0100">
+    <title>A Propósito da Música</title>
+    <desc>Alexandre Delgado</desc>
+    <url>https://www.rtp.pt/programa/radio/p1127/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1127_13406_62212.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926120000 +0100" stop="20260926130000 +0100">
+    <title>Prémio Jovens Músicos</title>
+    <desc>Nuno Galopim</desc>
+    <url>https://www.rtp.pt/programa/radio/p4349</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4349_13739_36862.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926130000 +0100" stop="20260926150000 +0100">
+    <title>Grande Auditório</title>
+    <desc>Reinaldo Francisco / Produção: Susana Valente</desc>
+    <url>https://www.rtp.pt/programa/radio/p1942/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1942_12620_83531.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="antena-2" start="20260926150000 +0100" stop="20260926160000 +0100">
+    <title>O Ofício da Eloquência - a música antiga em contexto</title>
+    <desc>Hugo Sanches</desc>
+    <url>https://www.rtp.pt/programa/radio/p8149/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8149_12896_63097.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926160000 +0100" stop="20260926180000 +0100">
+    <title>A Força das Coisas</title>
+    <desc>Luís Caetano</desc>
+    <url>https://www.rtp.pt/programa/radio/p1140</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1140_10606_10280.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926180000 +0100" stop="20260926220000 +0100">
+    <title>Mezza-Voce</title>
+    <desc>André Cunha Leal / Produção: Susana Valente</desc>
+    <url>https://www.rtp.pt/programa/radio/p1947/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1947_mezza.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="antena-2" start="20260926220000 +0100" stop="20260926230000 +0100">
+    <title>Geografia dos Sons</title>
+    <desc>Luís Tinoco</desc>
+    <url>https://www.rtp.pt/programa/radio/p1123/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1123_13418_14380.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926230000 +0100" stop="20260926230500 +0100">
+    <title>O Canto do Blues</title>
+    <desc>André Pinto</desc>
+    <url>https://www.rtp.pt/programa/radio/p2639</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2639_13428_11512.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-2" start="20260926230500 +0100" stop="20260927000000 +0100">
+    <title>Argonauta</title>
+    <desc>Jorge Carnaxide</desc>
+    <url>https://www.rtp.pt/programa/radio/p2182/e20260919</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2182_13411_20863.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
   </programme>
   <programme channel="antena-3" start="20260824000000 +0100" stop="20260824020000 +0100">
@@ -13479,6 +13642,7 @@
     <url>https://www.rtp.pt/programa/radio/p1080</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1080_13614_28284.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-3" start="20260920020000 +0100" stop="20260920050000 +0100">
     <title>Madrugada A3</title>
@@ -13512,6 +13676,7 @@
     <url>https://www.rtp.pt/programa/radio/p8254</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8254_13644_79788.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="antena-3" start="20260920120000 +0100" stop="20260920130000 +0100">
     <title>Coyote</title>
@@ -14006,6 +14171,101 @@
     <desc>Álvaro Costa e Miguel Quintão</desc>
     <url>https://www.rtp.pt/programa/radio/p1086</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1086_13599_30898.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926000000 +0100" stop="20260926020000 +0100">
+    <title>Electromagnético</title>
+    <desc>Gualter Santos</desc>
+    <url>https://www.rtp.pt/programa/radio/p7562</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7562_13607_59894.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926020000 +0100" stop="20260926050000 +0100">
+    <title>Madrugada A3</title>
+    <url>https://www.rtp.pt/programa/radio/p4940</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4940_13621_70349.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="antena-3" start="20260926050000 +0100" stop="20260926070000 +0100">
+    <title>Música Com Pés e Cabeça</title>
+    <desc>Rui Vargas</desc>
+    <url>https://www.rtp.pt/programa/radio/p2923</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2923_13616_44438.png?w=384&amp;h=216" />
+    <category>Todos, Repetição, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926070000 +0100" stop="20260926100000 +0100">
+    <title>Valentina Jesus</title>
+    <url>https://www.rtp.pt/programa/radio/p8106</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8106_13629_95128.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="antena-3" start="20260926100000 +0100" stop="20260926110000 +0100">
+    <title>Snack Bar</title>
+    <desc>Teresa Oliveira</desc>
+    <url>https://www.rtp.pt/programa/radio/p8169</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8169_13642_84462.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926110000 +0100" stop="20260926120000 +0100">
+    <title>Dona da Casa</title>
+    <desc>Catarina Marques Rodrigues</desc>
+    <url>https://antena3.rtp.pt/programa/dona-da-casa/</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7960_13606_16221.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926120000 +0100" stop="20260926130000 +0100">
+    <title>Coyote</title>
+    <desc>Pedro Costa</desc>
+    <url>https://www.rtp.pt/programa/radio/p1694</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1694_13634_24646.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926130000 +0100" stop="20260926140000 +0100">
+    <title>Domínio Público</title>
+    <desc>Na Antena 3, ao sábado, entre as 13h e as 14h.</desc>
+    <url>https://www.rtp.pt/programa/radio/p6254</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6254_13604_92829.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926140000 +0100" stop="20260926180000 +0100">
+    <title>Rui Estêvão</title>
+    <url>https://www.rtp.pt/programa/radio/p5334</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5334_13627_87038.png?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="antena-3" start="20260926180000 +0100" stop="20260926190000 +0100">
+    <title>A3.30</title>
+    <desc>André Santos</desc>
+    <url>https://www.rtp.pt/programa/radio/p2931</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2931_13632_30703.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926190000 +0100" stop="20260926200000 +0100">
+    <title>Avenidas Novas</title>
+    <desc>Tiago Ribeiro</desc>
+    <url>https://www.rtp.pt/programa/radio/p7927</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7927_13598_11202.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926200000 +0100" stop="20260926210000 +0100">
+    <title>Caixa de Ritmos</title>
+    <desc>Nuno Reis</desc>
+    <url>https://www.rtp.pt/programa/radio/p1680</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1680_13600_32944.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926210000 +0100" stop="20260926220000 +0100">
+    <title>Muitos Mundos</title>
+    <desc>Isilda Sanches</desc>
+    <url>https://www.rtp.pt/programa/radio/p6260</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6260_13615_40906.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="antena-3" start="20260926220000 +0100" stop="20260927000000 +0100">
+    <title>Música Com Pés e Cabeça</title>
+    <desc>Rui Vargas</desc>
+    <url>https://www.rtp.pt/programa/radio/p2923</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2923_13616_44438.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260824000000 +0100" stop="20260824063500 +0100">
@@ -19444,6 +19704,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920070500 +0100" stop="20260920073000 +0100">
     <title>Novas de Alegria</title>
@@ -19464,6 +19725,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920081000 +0100" stop="20260920083000 +0100">
     <title>As Manhãs</title>
@@ -19490,6 +19752,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920091000 +0100" stop="20260920100000 +0100">
     <title>Filarmonia</title>
@@ -19503,6 +19766,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920101000 +0100" stop="20260920102500 +0100">
     <title>Em Nome do Ouvinte, o Programa da Provedora do Ouvinte</title>
@@ -19529,6 +19793,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920121000 +0100" stop="20260920130000 +0100">
     <title>Igreja Açores</title>
@@ -19555,6 +19820,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920141000 +0100" stop="20260920144500 +0100">
     <title>Tardes RTP Antena 1 Açores</title>
@@ -19582,6 +19848,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920190900 +0100" stop="20260920223000 +0100">
     <title>Desporto - RTP Antena 1</title>
@@ -19601,6 +19868,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-acores-antena-1" start="20260920231000 +0100" stop="20260921000000 +0100">
     <title>Os Sabores do Jazz</title>
@@ -33322,6 +33590,7 @@
     <url>https://www.rtp.pt/programa/radio/p6874</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6874_13311_90716.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-africa" start="20260920010000 +0100" stop="20260920050000 +0100">
     <title>As noites do Kilimanjaro</title>
@@ -33329,6 +33598,7 @@
     <url>https://www.rtp.pt/programa/radio/p3003</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3003_13539_77882.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-africa" start="20260920050000 +0100" stop="20260920070000 +0100">
     <title>Clube Latino</title>
@@ -33336,6 +33606,7 @@
     <url>https://www.rtp.pt/programa/radio/p3164</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3164_13500_76293.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-africa" start="20260920070000 +0100" stop="20260920070500 +0100">
     <title>Noticiários RTP África</title>
@@ -33362,6 +33633,7 @@
     <url>https://www.rtp.pt/programa/radio/p7269</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7269_13444_72535.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-africa" start="20260920090000 +0100" stop="20260920090500 +0100">
     <title>Noticiários RTP África</title>
@@ -33434,6 +33706,7 @@
     <url>https://www.rtp.pt/programa/radio/p2586</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2586_13656_50593.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-africa" start="20260920140000 +0100" stop="20260920150000 +0100">
     <title>Dia de Jogo</title>
@@ -33441,6 +33714,7 @@
     <url>https://www.rtp.pt/programa/radio/p7944</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7944_13499_30791.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-africa" start="20260920150000 +0100" stop="20260920160000 +0100">
     <title>Planeta Música</title>
@@ -36253,6 +36527,197 @@
     <url>https://www.rtp.pt/programa/radio/p8231</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8231_13555_24436.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926000000 +0100" stop="20260926000500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926000500 +0100" stop="20260926010000 +0100">
+    <title>Rádio Mix</title>
+    <desc>DJ Ricardo Alves</desc>
+    <url>https://www.rtp.pt/programa/radio/p6874</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6874_13311_90716.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926010000 +0100" stop="20260926060000 +0100">
+    <title>As noites do Kilimanjaro</title>
+    <desc>DJ Carlos Pedro</desc>
+    <url>https://www.rtp.pt/programa/radio/p3003</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3003_13539_77882.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926060000 +0100" stop="20260926070000 +0100">
+    <title>Clube Latino</title>
+    <desc>Carlos Pedro</desc>
+    <url>https://www.rtp.pt/programa/radio/p3164</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3164_13500_76293.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926070000 +0100" stop="20260926070500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926070500 +0100" stop="20260926080000 +0100">
+    <title>Preguiça da manhã</title>
+    <desc>David Jochua</desc>
+    <url>https://www.rtp.pt/programa/radio/p7979</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7979_13185_41554.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926080000 +0100" stop="20260926080500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926080500 +0100" stop="20260926082500 +0100">
+    <title>Manhã de Sábado</title>
+    <desc>Nuno Sardinha</desc>
+    <url>https://www.rtp.pt/programa/radio/p5584</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5584_13327_10173.png?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926082500 +0100" stop="20260926085000 +0100">
+    <title>Língua de Todos</title>
+    <url>https://www.rtp.pt/programa/radio/p2713</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2713_13453_87798.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926085000 +0100" stop="20260926090000 +0100">
+    <title>A Saúde na Ponta da Língua</title>
+    <desc>Manuel Matola</desc>
+    <url>https://www.rtp.pt/programa/radio/p8089</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8089_13679_15067.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926090000 +0100" stop="20260926090500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926090500 +0100" stop="20260926094000 +0100">
+    <title>Manhã de Sábado</title>
+    <desc>Nuno Sardinha</desc>
+    <url>https://www.rtp.pt/programa/radio/p5584</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5584_13327_10173.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926094000 +0100" stop="20260926100000 +0100">
+    <title>Geração Digital</title>
+    <desc>Ana Paula Gomes</desc>
+    <url>https://www.rtp.pt/programa/radio/p6799</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6799_13452_8444.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926100000 +0100" stop="20260926100500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926100500 +0100" stop="20260926110000 +0100">
+    <title>Bora lá Conversar</title>
+    <desc>Sérgio Jardim</desc>
+    <url>https://www.rtp.pt/programa/radio/p8270</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8270_13443_8960.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926110000 +0100" stop="20260926110500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926110500 +0100" stop="20260926120000 +0100">
+    <title>O Meu Bairro também é deste País</title>
+    <desc>Manuel Matola</desc>
+    <url>https://www.rtp.pt/programa/radio/p8051</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8051_13517_82761.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926120000 +0100" stop="20260926120500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926120500 +0100" stop="20260926130000 +0100">
+    <title>Consultório Jurídico - Semanal</title>
+    <desc>Nuno Sardinha com o jurista Adriano Malalane</desc>
+    <url>https://www.rtp.pt/programa/radio/p2989</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2989_13445_50156.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926130000 +0100" stop="20260926130500 +0100">
+    <title>Noticiários RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7002</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7002_13649_72890.png?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926130500 +0100" stop="20260926140000 +0100">
+    <title>ZOUK 80.90</title>
+    <desc>Carlos Pedro</desc>
+    <url>https://www.rtp.pt/programa/radio/p3811</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3811_13457_82031.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926140000 +0100" stop="20260926140500 +0100">
+    <title>Tarde de Sábado - RTP África</title>
+    <url>https://www.rtp.pt/programa/radio/p7977</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7977_12584_78557.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926140000 +0100" stop="20260926144000 +0100">
+    <title>Outra África</title>
+    <desc>David Joschua e Nuno Sardinha</desc>
+    <url>https://www.rtp.pt/programa/radio/p7842</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7842_13529_55647.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926144000 +0100" stop="20260926152000 +0100">
+    <title>Rádio Mix - Rubrica</title>
+    <desc>Ricardo Alves</desc>
+    <url>https://www.rtp.pt/programa/radio/p7908</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7908_13312_55016.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926152000 +0100" stop="20260926162000 +0100">
+    <title>O som do Groove</title>
+    <desc>António Silva santos</desc>
+    <url>https://www.rtp.pt/programa/radio/p7978</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7978_13658_63264.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926162000 +0100" stop="20260926164000 +0100">
+    <title>As cores do som - rubrica</title>
+    <desc>Augusto Fernandes</desc>
+    <url>https://www.rtp.pt/programa/radio/p7917</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7917_13650_35035.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926164000 +0100" stop="20260926173000 +0100">
+    <title>Samba, Carimbó e Maracatú - Rubrica</title>
+    <desc>Gonçalo Castro</desc>
+    <url>https://www.rtp.pt/programa/radio/p7854</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7854_13301_6989.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926173000 +0100" stop="20260926180000 +0100">
+    <title>Especial Artista da semana</title>
+    <url>https://www.rtp.pt/programa/radio/p7295</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7295_13279_25656.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-africa" start="20260926180000 +0100" stop="20260927000000 +0100">
+    <title>Simultâneo - RTP Antena 1</title>
+    <url>https://www.rtp.pt/programa/radio/p2582</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2582_13705_77665.png?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
   </programme>
   <programme channel="rdp-internacional" start="20260824000000 +0100" stop="20260824050000 +0100">
     <title>Simultâneo RTP Antena 1</title>
@@ -43758,6 +44223,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920110900 +0100" stop="20260920120000 +0100">
     <title>Vencidos</title>
@@ -43771,6 +44237,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920120900 +0100" stop="20260920130000 +0100">
     <title>Visão Global</title>
@@ -43798,6 +44265,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920140900 +0100" stop="20260920150000 +0100">
     <title>Abraço da Madeira</title>
@@ -43811,6 +44279,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920150900 +0100" stop="20260920170000 +0100">
     <title>Tarde Desportiva</title>
@@ -43838,6 +44307,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920180700 +0100" stop="20260920190000 +0100">
     <title>Rui Santos</title>
@@ -43850,6 +44320,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920190700 +0100" stop="20260920200000 +0100">
     <title>33 Rotações por Minuto</title>
@@ -43863,6 +44334,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920200900 +0100" stop="20260920230000 +0100">
     <title>Desporto - RTP Antena 1</title>
@@ -43876,6 +44348,7 @@
     <url>https://www.rtp.pt/programa/radio/p1009</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
     <category>Direto, Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-1" start="20260920233200 +0100" stop="20260921000000 +0100">
     <title>Herberto Quaresma</title>
@@ -45072,6 +45545,204 @@
     <desc>Manuel Sobrinho Simões e Júlio Machado Vaz</desc>
     <url>https://www.rtp.pt/programa/radio/p7023</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7023_13518_99572.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926000000 +0100" stop="20260926090000 +0100">
+    <title>Emissão Nacional RTP Antena 1</title>
+    <url>https://www.rtp.pt/programa/radio/p4213</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4213_13208_20160.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926090000 +0100" stop="20260926090800 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926090800 +0100" stop="20260926100000 +0100">
+    <title>Luís Reis</title>
+    <url>https://www.rtp.pt/programa/radio/p6024</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6024_13226_77048.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926100000 +0100" stop="20260926101500 +0100">
+    <title>Diário Regional</title>
+    <desc>A actualidade informativa regional (10:00/13:00/18:00)</desc>
+    <url>https://www.rtp.pt/programa/radio/p3760</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3760_13735_29428.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926101500 +0100" stop="20260926110000 +0100">
+    <title>Luís Reis</title>
+    <url>https://www.rtp.pt/programa/radio/p6024</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6024_13226_77048.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926110000 +0100" stop="20260926111200 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926111200 +0100" stop="20260926120000 +0100">
+    <title>Luís Reis</title>
+    <url>https://www.rtp.pt/programa/radio/p6024</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6024_13226_77048.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926120000 +0100" stop="20260926121000 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926121000 +0100" stop="20260926130000 +0100">
+    <title>Luís Reis</title>
+    <url>https://www.rtp.pt/programa/radio/p7175</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6492_13227_47986.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926130000 +0100" stop="20260926131500 +0100">
+    <title>Diário Regional</title>
+    <desc>A actualidade informativa regional (10:00/13:00/18:00)</desc>
+    <url>https://www.rtp.pt/programa/radio/p3760</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3760_13735_29428.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926131500 +0100" stop="20260926140000 +0100">
+    <title>Musical RTP Antena 1 Madeira</title>
+    <url>https://www.rtp.pt/programa/radio/p4281</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4281_12497_57759.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926140000 +0100" stop="20260926140900 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926140900 +0100" stop="20260926150000 +0100">
+    <title>Geometria Variável</title>
+    <desc>Maria Flor Pedroso com Jaime Nogueira Pinto e Pedro Tadeu</desc>
+    <url>https://www.rtp.pt/programa/radio/p7190</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7190_12997_73331.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926150000 +0100" stop="20260926150700 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926150700 +0100" stop="20260926160000 +0100">
+    <title>Máquina do Tempo</title>
+    <desc>Augusto Fernandes</desc>
+    <url>https://www.rtp.pt/programa/radio/p7471</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7471_13363_93084.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926160000 +0100" stop="20260926161200 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926161200 +0100" stop="20260926170000 +0100">
+    <title>Máquina do Tempo</title>
+    <desc>Augusto Fernandes</desc>
+    <url>https://www.rtp.pt/programa/radio/p7471</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7471_13363_93084.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926170000 +0100" stop="20260926170900 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926170900 +0100" stop="20260926180000 +0100">
+    <title>Mixtape</title>
+    <desc>Noémia Gonçalves</desc>
+    <url>https://www.rtp.pt/programa/radio/p7503</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7503_11228_83899.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926180000 +0100" stop="20260926181500 +0100">
+    <title>Diário Regional</title>
+    <desc>A actualidade informativa regional (10:00/13:00/18:00)</desc>
+    <url>https://www.rtp.pt/programa/radio/p3760</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/3760_13735_29428.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926181500 +0100" stop="20260926190000 +0100">
+    <title>Musical RTP Antena 1 Madeira</title>
+    <url>https://www.rtp.pt/programa/radio/p4281</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4281_12497_57759.jpg?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926190000 +0100" stop="20260926191000 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926191000 +0100" stop="20260926200000 +0100">
+    <title>Edgar Canelas</title>
+    <desc>Diamantino José</desc>
+    <url>https://www.rtp.pt/programa/radio/p7539</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7539_11897_85898.png?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926200000 +0100" stop="20260926201200 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926201200 +0100" stop="20260926210000 +0100">
+    <title>Noite - Antena 1</title>
+    <desc>Diamantino José</desc>
+    <url>https://www.rtp.pt/programa/radio/p1736</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1736_11762_55156.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926210000 +0100" stop="20260926211200 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926211200 +0100" stop="20260926220000 +0100">
+    <title>Noite - Antena 1</title>
+    <desc>Diamantino José</desc>
+    <url>https://www.rtp.pt/programa/radio/p1736</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1736_11762_55156.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926220000 +0100" stop="20260926221200 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926221200 +0100" stop="20260926230000 +0100">
+    <title>Noite - Antena 1</title>
+    <desc>Diamantino José</desc>
+    <url>https://www.rtp.pt/programa/radio/p1736</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1736_11762_55156.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926230000 +0100" stop="20260926231000 +0100">
+    <title>Noticiário</title>
+    <url>https://www.rtp.pt/programa/radio/p1009</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1009_13488_88116.jpg?w=384&amp;h=216" />
+    <category>Direto, Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-1" start="20260926231000 +0100" stop="20260927000000 +0100">
+    <title>A História da Música</title>
+    <desc>Maria João e Miguel Esteves Cardoso</desc>
+    <url>https://www.rtp.pt/programa/radio/p7873</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7873_12504_19252.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
   </programme>
   <programme channel="rdp-madeira-antena-3" start="20260824000000 +0100" stop="20260824070000 +0100">
@@ -47310,6 +47981,7 @@
     <url>https://www.rtp.pt/programa/radio/p1080</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1080_13614_28284.png?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-3" start="20260920020000 +0100" stop="20260920050000 +0100">
     <title>Madrugada A3</title>
@@ -47343,6 +48015,7 @@
     <url>https://www.rtp.pt/programa/radio/p8254</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8254_13644_79788.jpg?w=384&amp;h=216" />
     <category>Todos, RTP Play</category>
+    <previously-shown />
   </programme>
   <programme channel="rdp-madeira-antena-3" start="20260920120000 +0100" stop="20260920130000 +0100">
     <title>Coyote</title>
@@ -47800,5 +48473,100 @@
     <url>https://www.rtp.pt/programa/radio/p4789</url>
     <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4789_13209_87058.jpg?w=384&amp;h=216" />
     <category>Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926000000 +0100" stop="20260926020000 +0100">
+    <title>Electromagnético</title>
+    <desc>Gualter Santos</desc>
+    <url>https://www.rtp.pt/programa/radio/p7562</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7562_13607_59894.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926020000 +0100" stop="20260926050000 +0100">
+    <title>Madrugada A3</title>
+    <url>https://www.rtp.pt/programa/radio/p4940</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/4940_13621_70349.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926050000 +0100" stop="20260926070000 +0100">
+    <title>Música Com Pés e Cabeça</title>
+    <desc>Rui Vargas</desc>
+    <url>https://www.rtp.pt/programa/radio/p2923</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2923_13616_44438.png?w=384&amp;h=216" />
+    <category>Todos, Repetição, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926070000 +0100" stop="20260926100000 +0100">
+    <title>Ricardo Sérgio</title>
+    <url>https://www.rtp.pt/programa/radio/p6653</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6653_13626_51126.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926100000 +0100" stop="20260926110000 +0100">
+    <title>Snack Bar</title>
+    <desc>Teresa Oliveira</desc>
+    <url>https://www.rtp.pt/programa/radio/p8169</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/8169_13642_84462.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926110000 +0100" stop="20260926120000 +0100">
+    <title>Dona da Casa</title>
+    <desc>Catarina Marques Rodrigues</desc>
+    <url>https://antena3.rtp.pt/programa/dona-da-casa/</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7960_13606_16221.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926120000 +0100" stop="20260926130000 +0100">
+    <title>Coyote</title>
+    <desc>Pedro Costa</desc>
+    <url>https://www.rtp.pt/programa/radio/p1694</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1694_13634_24646.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926130000 +0100" stop="20260926140000 +0100">
+    <title>Domínio Público</title>
+    <desc>Na Antena 3, ao sábado, entre as 13h e as 14h.</desc>
+    <url>https://www.rtp.pt/programa/radio/p6254</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6254_13604_92829.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926140000 +0100" stop="20260926180000 +0100">
+    <title>Rui Estêvão</title>
+    <url>https://www.rtp.pt/programa/radio/p5334</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/5334_13627_87038.png?w=384&amp;h=216" />
+    <category>Todos</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926180000 +0100" stop="20260926190000 +0100">
+    <title>A3.30</title>
+    <desc>André Santos</desc>
+    <url>https://www.rtp.pt/programa/radio/p2931</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2931_13632_30703.jpg?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926190000 +0100" stop="20260926200000 +0100">
+    <title>Avenidas Novas</title>
+    <desc>Tiago Ribeiro</desc>
+    <url>https://www.rtp.pt/programa/radio/p7927</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/7927_13598_11202.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926200000 +0100" stop="20260926210000 +0100">
+    <title>Caixa de Ritmos</title>
+    <desc>Nuno Reis</desc>
+    <url>https://www.rtp.pt/programa/radio/p1680</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/1680_13600_32944.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926210000 +0100" stop="20260926220000 +0100">
+    <title>Muitos Mundos</title>
+    <desc>Isilda Sanches</desc>
+    <url>https://www.rtp.pt/programa/radio/p6260</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/6260_13615_40906.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
+  </programme>
+  <programme channel="rdp-madeira-antena-3" start="20260926220000 +0100" stop="20260927000000 +0100">
+    <title>Música Com Pés e Cabeça</title>
+    <desc>Rui Vargas</desc>
+    <url>https://www.rtp.pt/programa/radio/p2923</url>
+    <icon src="https://cdn-images.rtp.pt/EPG/radio/imagens/2923_13616_44438.png?w=384&amp;h=216" />
+    <category>Todos, RTP Play</category>
   </programme>
 </tv>
